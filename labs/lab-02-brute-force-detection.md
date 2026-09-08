@@ -105,7 +105,7 @@ Multiple authentication failures within a short period may indicate:
 In this case, the activity was intentionally generated inside the CyberShield lab.
 
 **Assessment:** Expected simulated brute-force activity  
-**Severity:** Medium/High for investigation  
+**Wazuh Alert Level:** 10  
 **Compromise Identified:** No  
 **MITRE ATT&CK:** T1110 — Brute Force
 
