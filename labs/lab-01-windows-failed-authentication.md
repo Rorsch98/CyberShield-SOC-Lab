@@ -18,6 +18,8 @@ SIEM Alert
 Investigation
       ↓
 Analyst Assessment
+
+```
 ## Screenshots
 
 ### Wazuh Agent Connected
