@@ -18,3 +18,16 @@ SIEM Alert
 Investigation
       ↓
 Analyst Assessment
+## Screenshots
+
+### Wazuh Agent Connected
+
+![Wazuh Agent Active](../screenshots/lab-01/01-agent-active.png)
+
+### Failed Authentication Alert
+
+![Failed Authentication Alert](../screenshots/lab-01/02-4625-alert.png)
+
+### Event Details
+
+![Event Details](../screenshots/lab-01/03-event-details.png)
