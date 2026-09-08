@@ -114,3 +114,11 @@ It also demonstrated the complete path from Windows telemetry collection to cent
 ### Event Details
 
 ![Event Details](../screenshots/lab-01/03-event-details.png)
+
+## Conclusion
+
+Lab 01 successfully demonstrated the detection and investigation of a Windows failed authentication event using Wazuh SIEM.
+
+Windows generated Event ID 4625, the Wazuh agent collected the event, and Wazuh Rule 60122 generated an alert for investigation.
+
+The next lab will expand this scenario by analyzing repeated authentication failures and potential brute-force behavior.
