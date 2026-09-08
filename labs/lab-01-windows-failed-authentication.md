@@ -101,7 +101,6 @@ Important fields for authentication investigations include:
 
 It also demonstrated the complete path from Windows telemetry collection to centralized Wazuh investigation.
 
-```
 ## Screenshots
 
 ### Wazuh Agent Connected
